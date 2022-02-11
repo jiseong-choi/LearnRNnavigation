@@ -1,7 +1,11 @@
 import { View, Text, Button } from 'react-native';
-import React from 'react';
+import React, {useEffect} from 'react';
 
 const HomeScreen = ({navigation}) => {
+  // useEffect(() => {
+  //   navigation.setOptions({title:"홈"});
+  // }, [navigation]);
+
   return (
     <View>
         <Button 
