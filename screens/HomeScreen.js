@@ -20,6 +20,10 @@ const HomeScreen = ({navigation}) => {
         title='Detail3 열기'
         onPress={()=>navigation.navigate('Detail',{id:3})}
         />
+        <Button 
+        title='HeaderLess 열기'
+        onPress={()=>navigation.push('headerless')}
+        />
     </View>
   );
 };
