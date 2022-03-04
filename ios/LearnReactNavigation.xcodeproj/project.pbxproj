@@ -11,9 +11,9 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2E7F56FFBA19BFF402FD0D80 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B1735D51EFDF9D716D6F9967 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */; };
-		5861F1D38EDD0809F5356EB2 /* libPods-LearnReactNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FAF615E92B91E4F720423E9D /* libPods-LearnReactNavigation.a */; };
+		2D988F945C40FE5430335118 /* libPods-LearnReactNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ED9560F7C645AC9F437D11B7 /* libPods-LearnReactNavigation.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A8C92E8497B925A7052D3757 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FB017C80574138794853377F /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +36,14 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = LearnReactNavigation/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = LearnReactNavigation/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = LearnReactNavigation/main.m; sourceTree = "<group>"; };
-		5D59AB7BFBF0DC87DD989F1E /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig"; sourceTree = "<group>"; };
-		62462B4AEF60A91CA3D97885 /* Pods-LearnReactNavigation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation.debug.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation.debug.xcconfig"; sourceTree = "<group>"; };
+		1FCDF39E7C9EE408AC2744B0 /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig"; sourceTree = "<group>"; };
+		700E25064CB308AA3CA463AE /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = LearnReactNavigation/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		97E3BABD01DB03853E84F943 /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B1735D51EFDF9D716D6F9967 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LearnReactNavigation-LearnReactNavigationTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2EFC27016AA2CD10E53FC80 /* Pods-LearnReactNavigation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation.release.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation.release.xcconfig"; sourceTree = "<group>"; };
+		EC849049C2CA4E58C5DC86CB /* Pods-LearnReactNavigation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation.debug.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F9E3CBCAF4D0700C9A09F521 /* Pods-LearnReactNavigation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearnReactNavigation.release.xcconfig"; path = "Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation.release.xcconfig"; sourceTree = "<group>"; };
-		FAF615E92B91E4F720423E9D /* libPods-LearnReactNavigation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LearnReactNavigation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED9560F7C645AC9F437D11B7 /* libPods-LearnReactNavigation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LearnReactNavigation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB017C80574138794853377F /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LearnReactNavigation-LearnReactNavigationTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E7F56FFBA19BFF402FD0D80 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a in Frameworks */,
+				A8C92E8497B925A7052D3757 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5861F1D38EDD0809F5356EB2 /* libPods-LearnReactNavigation.a in Frameworks */,
+				2D988F945C40FE5430335118 /* libPods-LearnReactNavigation.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,18 +83,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		058E59ABE04BB52C9E472090 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				62462B4AEF60A91CA3D97885 /* Pods-LearnReactNavigation.debug.xcconfig */,
-				F9E3CBCAF4D0700C9A09F521 /* Pods-LearnReactNavigation.release.xcconfig */,
-				97E3BABD01DB03853E84F943 /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */,
-				5D59AB7BFBF0DC87DD989F1E /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		13B07FAE1A68108700A75B9A /* LearnReactNavigation */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,10 +100,22 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				FAF615E92B91E4F720423E9D /* libPods-LearnReactNavigation.a */,
-				B1735D51EFDF9D716D6F9967 /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */,
+				ED9560F7C645AC9F437D11B7 /* libPods-LearnReactNavigation.a */,
+				FB017C80574138794853377F /* libPods-LearnReactNavigation-LearnReactNavigationTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68DB93A5AACD5EDEEA49B1F7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EC849049C2CA4E58C5DC86CB /* Pods-LearnReactNavigation.debug.xcconfig */,
+				E2EFC27016AA2CD10E53FC80 /* Pods-LearnReactNavigation.release.xcconfig */,
+				700E25064CB308AA3CA463AE /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */,
+				1FCDF39E7C9EE408AC2744B0 /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -133,7 +133,7 @@
 				00E356EF1AD99517003FC87E /* LearnReactNavigationTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				058E59ABE04BB52C9E472090 /* Pods */,
+				68DB93A5AACD5EDEEA49B1F7 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -156,12 +156,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "LearnReactNavigationTests" */;
 			buildPhases = (
-				5E190B7F646145BC603129E5 /* [CP] Check Pods Manifest.lock */,
+				13B479C0ABD93D777AA29396 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				8240C120967181C419BF5A68 /* [CP] Embed Pods Frameworks */,
-				80873B41BB68A6F8BFE452B9 /* [CP] Copy Pods Resources */,
+				45367F8658BC95B777AFABC1 /* [CP] Embed Pods Frameworks */,
+				C8DA6C61CEE75EBFBB0B3472 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -177,14 +177,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "LearnReactNavigation" */;
 			buildPhases = (
-				E5315E4BABE24CFA5DF52173 /* [CP] Check Pods Manifest.lock */,
+				5A4A950C279BFA9D2DA64BF6 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				4C1EECDA3EA5762C8CC606C4 /* [CP] Embed Pods Frameworks */,
-				A7CD733C556B546FC5A8895C /* [CP] Copy Pods Resources */,
+				4AB5CCB65B03A1EFD75C6244 /* [CP] Embed Pods Frameworks */,
+				41B852F28768383B8AA364C4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -265,24 +265,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		4C1EECDA3EA5762C8CC606C4 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		5E190B7F646145BC603129E5 /* [CP] Check Pods Manifest.lock */ = {
+		13B479C0ABD93D777AA29396 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -304,41 +287,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		80873B41BB68A6F8BFE452B9 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8240C120967181C419BF5A68 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A7CD733C556B546FC5A8895C /* [CP] Copy Pods Resources */ = {
+		41B852F28768383B8AA364C4 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -355,7 +304,41 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E5315E4BABE24CFA5DF52173 /* [CP] Check Pods Manifest.lock */ = {
+		45367F8658BC95B777AFABC1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4AB5CCB65B03A1EFD75C6244 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation/Pods-LearnReactNavigation-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A4A950C279BFA9D2DA64BF6 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -375,6 +358,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C8DA6C61CEE75EBFBB0B3472 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LearnReactNavigation-LearnReactNavigationTests/Pods-LearnReactNavigation-LearnReactNavigationTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -429,7 +429,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 97E3BABD01DB03853E84F943 /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */;
+			baseConfigurationReference = 700E25064CB308AA3CA463AE /* Pods-LearnReactNavigation-LearnReactNavigationTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -456,7 +456,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5D59AB7BFBF0DC87DD989F1E /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */;
+			baseConfigurationReference = 1FCDF39E7C9EE408AC2744B0 /* Pods-LearnReactNavigation-LearnReactNavigationTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -480,7 +480,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 62462B4AEF60A91CA3D97885 /* Pods-LearnReactNavigation.debug.xcconfig */;
+			baseConfigurationReference = EC849049C2CA4E58C5DC86CB /* Pods-LearnReactNavigation.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -506,7 +506,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F9E3CBCAF4D0700C9A09F521 /* Pods-LearnReactNavigation.release.xcconfig */;
+			baseConfigurationReference = E2EFC27016AA2CD10E53FC80 /* Pods-LearnReactNavigation.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
